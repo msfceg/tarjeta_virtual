@@ -3,7 +3,6 @@ music.play()
 music.preload
 music.loop = true
 music.volume = 0.08;
-music.pause()
 
 
 
