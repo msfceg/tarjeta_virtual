@@ -29,6 +29,3 @@ var final = moment("2022-12-03");
         }, 1000);
 
 
-//efecto de foto central
-
-
