@@ -27,3 +27,8 @@ var final = moment("2022-12-03");
                                                                           ${segundo}   Segundos  </br>`);
             
         }, 1000);
+
+
+//efecto de foto central
+
+

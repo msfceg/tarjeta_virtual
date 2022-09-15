@@ -10,6 +10,7 @@
         background-image: url("fondo_unico.jpg");
         background-size: cover;
         background-repeat: no-repeat;
+        
     }
 
 
@@ -76,6 +77,19 @@
         }
     }
 
+                                               /*foto principal*/
+
+    #pic-principal{
+        display: flex;
+        flex-direction: column;
+        padding-top: 10%;
+
+    }
+    img{
+        width: auto;
+        height: 400px;
+    }
+
                                                  /*cuenta regresiva*/
     div#counter{
     width: 100%;
@@ -85,7 +99,7 @@
     color: #F2385A;
     }
 
-    /*footer*/
+                                                    /*footer*/
     #pie{
         font-size: small;
         position: relative;
@@ -110,6 +124,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
     }
 
     #boton{
